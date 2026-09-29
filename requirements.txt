@@ -1,0 +1,8 @@
+   numpy
+   pandas
+   scipy
+   matplotlib
+   seaborn
+   scikit-learn
+   skrebate
+   bokeh==2.4.3
